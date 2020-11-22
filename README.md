@@ -1,7 +1,7 @@
 # Project Title
 ## About the Project
 ### Goals
-What is the purpose of the project?
+What is the purpose of the project? This project is guidance for users creating an informative readme file for any project. This can be used directly or as inspiraation. Tailor it to the needs of the project. Sections can be added or removed.
 
 ### Background
 Domain knowledge relevant to project. According to [WiseGeek.com](https://www.wisegeek.com/what-is-a-readme-file.htm),
