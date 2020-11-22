@@ -15,7 +15,7 @@ The requirements for sharing your project. If possible, include links, such as t
 
 ### Acknowledgments
 Where you got the data, inspiration, etc. 
-> Inspiration for all my Readme files from Maggie Giust's Heart Failure repository [here](https://github.com/magsgiust/heart_failure).
+> My first inspiration for writing Readme files from Maggie Giust's Heart Failure repository [here](https://github.com/magsgiust/heart_failure).
 
 ## Data Dictionary
 Describe the columns in your final dataset. Use [this link](https://www.tablesgenerator.com/markdown_tables) to easily create markdown tables.
