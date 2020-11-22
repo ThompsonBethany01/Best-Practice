@@ -13,7 +13,8 @@ Domain knowledge relevant to project. According to [WiseGeek.com](https://www.wi
 The requirements for sharing your project. If possible, include links, such as the link to a presentation.
 
 ### Acknowledgments
-Where you got the data, inspiration, etc.
+Where you got the data, inspiration, etc. 
+> Inspiration for all my Readme files from Maggie Giust's Heart Failure repository [here](https://github.com/magsgiust/heart_failure).
 
 ## Data Dictionary
 Describe the columns in your final dataset. Use [this link](https://www.tablesgenerator.com/markdown_tables) to easily create markdown tables.
