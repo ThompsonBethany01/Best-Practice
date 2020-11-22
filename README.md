@@ -25,7 +25,7 @@ Describe the columns in your final dataset. Use [this link](https://www.tablesge
 | x            | time in hours        | integer         |
 | y            | count of observation | float           |
 
-## Initial Thoughts & Hypothesis
+## Initial Thoughts & Hypotheses
 ### Thoughts
 First ideas about project while initially exploring the dataset.
 
@@ -90,7 +90,7 @@ What should the user viewing this project do to recreate the project?
   
   ![4-6-steps](https://i.pinimg.com/originals/14/b7/88/14b788b50562ea1fadac74cbd4963217.png)  
   
-  7. You can now edit the file how you want withint your project directory.
+  7. You can now edit the file how you want within your project directory.
   
 </details>
 
