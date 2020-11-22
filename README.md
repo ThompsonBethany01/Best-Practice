@@ -1,3 +1,4 @@
+![Repo-Header](https://i.pinimg.com/originals/d4/48/6a/d4486a5cf7a5d0a96a77adaf8d8765fb.png)
 # Project Title
 ## About the Project
 ### Goals
@@ -72,6 +73,26 @@ What should the user viewing this project do to recreate the project?
     - <kbd> Copy_Pasta.md </kbd> for headers alone.
     - <kbd> README.md </kbd> for text with code used on different text, such as the expandable text.
 3. View your final results.
+
+<details>
+  <summary> An Easy Way to Download </summary>
+  
+  To save the file straight in your project directory, follow these steps:
+  1. Click the file in this repository you want to copy and paste. It should open to the page as shown below.
+  2. Right click <kbd>raw</kbd>.
+  3. Click <kbd>save as</kbd>.  
+  
+  ![1-3-steps](https://i.pinimg.com/originals/25/d3/7b/25d37bd84dd8508544b5f8fca9c442a4.png)  
+  
+  4. Click the folder you want to save the file in, such as your project directory.
+  5. Rename the file as <kbd>README.md</kbd>.
+  6. Make sure the file is saving as a markdown file before clicking save.  
+  
+  ![4-6-steps](https://i.pinimg.com/originals/14/b7/88/14b788b50562ea1fadac74cbd4963217.png)  
+  
+  7. You can now edit the file how you want withint your project directory.
+  
+</details>
 
 ### Tools & Requirements
 What tools did you use and what version were they?  
