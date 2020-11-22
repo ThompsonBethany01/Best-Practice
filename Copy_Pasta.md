@@ -5,7 +5,7 @@
 ### Deliverables
 ### Acknowledgments
 ## Data Dictionary
-## Initial Thoughts & Hypothesis
+## Initial Thoughts & Hypotheses
 ### Thoughts
 ### Hypotheses
 ## Project Steps
