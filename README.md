@@ -16,6 +16,8 @@ The requirements for sharing your project. If possible, include links, such as t
 Where you got the data, inspiration, etc.
 
 ## Data Dictionary
+Describe the columns in your final dataset. Use [this link](https://www.tablesgenerator.com/markdown_tables) to easily create markdown tables.
+
 | Feature Name | Description          | Additional Info |
 |--------------|----------------------|-----------------|
 | x            | time in hours        | integer         |
@@ -65,7 +67,9 @@ Key insights from project.
 ### Steps
 What should the user viewing this project do to recreate the project?  
 1. Fork or clone this repository.
-2. Copy and paste the contents of <kbd> README.md </kbd> for headers alone.
+2. Copy and paste the contents of 
+    - <kbd> Copy_Pasta.md </kbd> for headers alone.
+    - <kbd> README.md </kbd> for text with code used on different text, such as the expandable text.
 3. View your final results.
 
 ### Tools & Requirements
